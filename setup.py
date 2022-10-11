@@ -6,7 +6,7 @@ with open("README.MD", "r") as long_description_file_reader:
 
 setup(
     name='micropython-picoconnection',
-    version="v0.0.0",
+    version="v0.0.1",
     description="Pi Pico AP and Wifi Connection helper",
     long_description=long_description,
     long_description_content_type='text/markdown',
